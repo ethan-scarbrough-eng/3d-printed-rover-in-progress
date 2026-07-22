@@ -1,0 +1,9 @@
+## Phase 1: Physical Mockup & Spatial Layout
+
+To evaluate weight distribution, clearance, and component mounting before CAD modeling, a low-fidelity cardboard chassis prototype was constructed.
+
+
+
+### Key Insights from Mockup:
+* Verified that the 2WD motor placement provides enough clearance for the battery pack.
+* Confirmed the front ultrasonic sensor has an unobstructed field of view.
